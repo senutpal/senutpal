@@ -12,7 +12,7 @@
 <br>
 
 hi, myself utpal sen.
-1st year cs student at [kgec](https://kgec.edu.in/).
+2nd year cs student at [kgec](https://kgec.edu.in/).
 <br/>
 
 ### things i have shipped so far
