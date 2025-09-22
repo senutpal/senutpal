@@ -18,4 +18,5 @@ hi, myself utpal sen.
 ### things i have shipped so far
 
 
+- [strivio](https://github.com/senutpal/strivio) - kinda like udemy but diy.
 - [llamareader](https://github.com/senutpal/LlamaReader) - python toolkit to read and query local documents.
