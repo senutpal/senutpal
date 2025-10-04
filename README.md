@@ -18,5 +18,6 @@ hi, myself utpal sen.
 ### things i have shipped so far
 
 
+- [askly](https://github.com/senutpal/askly) - make chatbots for your product in under a minute.
 - [strivio](https://github.com/senutpal/strivio) - kinda like udemy but diy.
 - [llamareader](https://github.com/senutpal/LlamaReader) - python toolkit to read and query local documents.
