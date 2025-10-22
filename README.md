@@ -19,5 +19,6 @@ hi, myself utpal sen.
 
 
 - [askly](https://github.com/senutpal/askly) - make chatbots for your product in under a minute.
+- [snailtrail](https://github.com/senutpal/snailtrail) - a rate limiter so you don't flood the requests, in go.
 - [strivio](https://github.com/senutpal/strivio) - kinda like udemy but diy.
 - [llamareader](https://github.com/senutpal/LlamaReader) - python toolkit to read and query local documents.
