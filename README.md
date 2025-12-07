@@ -13,6 +13,7 @@
 
 hi, myself utpal sen.
 2nd year cs student at [kgec](https://kgec.edu.in/).
+contributing to [circuitverse](https://github.com/CircuitVerse).
 <br/>
 
 ### things i have shipped so far
