@@ -25,5 +25,6 @@ contributing to [circuitverse](https://github.com/CircuitVerse).
 - [mehvault](https://github.com/senutpal/mehVault) - whip up crypto wallets for solana and ethereum in your browser.
 - [quorum](https://github.com/senutpal/quorum) - paxos algorithm from scratch in go.
 - [snailtrail](https://github.com/senutpal/snailtrail) - a rate limiter so you don't flood the requests, in go.
+- [fplot](https://github.com/senutpal/fplot) - a tiny function plotter for the terminal, in c.
 - [strivio](https://github.com/senutpal/strivio) - kinda like udemy but diy.
 - [llamareader](https://github.com/senutpal/LlamaReader) - python toolkit to read and query local documents.
