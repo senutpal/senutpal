@@ -23,6 +23,7 @@ contributing to [circuitverse](https://github.com/CircuitVerse).
 - [devradar](https://github.com/senutpal/devRadar) - the discord for vscode that gamifies the coding experience.
 - [justpixels](https://github.com/senutpal/justpixels) - strip all metadata from your images before you share them.
 - [mehvault](https://github.com/senutpal/mehVault) - whip up crypto wallets for solana and ethereum in your browser.
+- [ownthegrid](https://github.com/senutpal/ownthegrid) - people fight to claim tiles, in go.
 - [quorum](https://github.com/senutpal/quorum) - paxos algorithm from scratch in go.
 - [snailtrail](https://github.com/senutpal/snailtrail) - a rate limiter so you don't flood the requests, in go.
 - [fplot](https://github.com/senutpal/fplot) - a tiny function plotter for the terminal, in c.
