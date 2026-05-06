@@ -9,13 +9,11 @@
   <a href="https://instagram.com/utpal.ig">instagram</a>
 </p>
 
-<br>
 
-hi, myself utpal sen.
-2nd year cs student at [kgec](https://kgec.edu.in/).
-prev at [enrich](https://enrich.so), [maximiseai](https://github.com/maximiseai).
+hi, myself utpal sen.  
+2nd year cs student at [kgec](https://kgec.edu.in/).  
+prev at [enrich](https://enrich.so), [maximiseai](https://github.com/maximiseai).  
 contributing to [circuitverse](https://github.com/CircuitVerse), [astro](https://github.com/withastro), [kubestellar](https://github.com/kubestellar).
-<br/>
 
 ### things i have shipped so far
 
