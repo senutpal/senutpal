@@ -20,6 +20,7 @@ contributing to [circuitverse](https://github.com/CircuitVerse), [astro](https:/
 
 
 - [askly](https://github.com/senutpal/askly) - make chatbots for your product in under a minute.
+- [watchdeck](https://github.com/senutpal/watchdeck) - resume youtube videos right where you left off.
 - [devradar](https://github.com/senutpal/devRadar) - the discord for vscode that gamifies the coding experience.
 - [justpixels](https://github.com/senutpal/justpixels) - strip all metadata from your images before you share them.
 - [mehvault](https://github.com/senutpal/mehVault) - whip up crypto wallets for solana and ethereum in your browser.
